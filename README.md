@@ -12,4 +12,4 @@ Engenheiro de Software em formação | Técnico em Desenvolvimento de Sistemas
 
 #### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iguinho)
-[![Portfolio](https://img.shields.io/badge/Site_Pessoal-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.igorlubu.com.br)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.igorlubu.com.br)
